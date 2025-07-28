@@ -2,3 +2,6 @@
 node_modules
 .tmp
 npm-debug.log
+log01.log
+log02.log
+folder03/ # Ignore this folder and its contents
